@@ -1,0 +1,14 @@
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\bin\Release\net9.0\SOLIDPrinciples.exe
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\bin\Release\net9.0\SOLIDPrinciples.deps.json
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\bin\Release\net9.0\SOLIDPrinciples.runtimeconfig.json
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\bin\Release\net9.0\SOLIDPrinciples.dll
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\bin\Release\net9.0\SOLIDPrinciples.pdb
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.AssemblyInfo.cs
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.dll
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\refint\SOLIDPrinciples.dll
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.pdb
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\SOLIDPrinciples.genruntimeconfig.cache
+C:\Users\vikassharma\OneDrive - Microsoft\Projects\EMS\obj\Release\net9.0\ref\SOLIDPrinciples.dll
